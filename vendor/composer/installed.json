@@ -1,0 +1,43 @@
+[
+    {
+        "name": "bashibozuk/httpstub",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/bashibozuk/HttpStub.git",
+            "reference": "f8c441b733873d005e41eb9e071a9513f0e17157"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/bashibozuk/HttpStub/zipball/f8c441b733873d005e41eb9e071a9513f0e17157",
+            "reference": "f8c441b733873d005e41eb9e071a9513f0e17157",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.4.0"
+        },
+        "time": "2016-01-30 17:27:49",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "HttpStub\\": ""
+            }
+        },
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Vasil Atanasov",
+                "email": "vsatanasov@gmail.com"
+            }
+        ],
+        "description": "rest http stub server with document-like key value json based storage",
+        "support": {
+            "source": "https://github.com/bashibozuk/HttpStub/tree/master",
+            "issues": "https://github.com/bashibozuk/HttpStub/issues"
+        }
+    }
+]
